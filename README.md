@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Hi, I'm Mike: Senior Software Engineer, Tech Lead and Solutions Architect. Pixel-art developer, seen from behind, coding on an iMac while Claude's mascot waves from the desk and Kira, a white Pomeranian, wags her tail on the floor">
+  <img src="assets/banner.svg" width="100%" alt="Hi, I'm Mike: Senior Software Engineer, Tech Lead and Solutions Architect. Pixel-art developer, seen from behind, coding on an iMac while Claude's mascot waves from the desk, Kira, a white Pomeranian girl with a pink bow, wags her tail on the floor, and a server rack lights up when the push deploys">
 </p>
 
 I build backend systems and the platforms that run them, with **Java**, **Python**, **React** and **AWS**.
