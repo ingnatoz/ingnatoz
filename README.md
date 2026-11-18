@@ -24,16 +24,6 @@ I build backend systems and the platforms that run them, with **Java**, **Python
 
 **Also:** microservices · event-driven · DDD · TDD · SonarQube · Dynatrace · Claude Code
 
-## 🚀 Featured projects
-
-<p>
-  <a href="https://github.com/ingnatoz/Event_Driven_Development_RabbitMQ"><picture><source media="(max-width: 640px)" srcset="assets/projects/Event_Driven_Development_RabbitMQ-mobile.svg"><img src="assets/projects/Event_Driven_Development_RabbitMQ.svg" width="100%" alt="Event_Driven_Development_RabbitMQ: Django REST Framework and Flask services that talk asynchronously through RabbitMQ, with a Mercado Libre API integration, on Docker"></picture></a>
-  <a href="https://github.com/ingnatoz/ms-java-crud"><picture><source media="(max-width: 640px)" srcset="assets/projects/ms-java-crud-mobile.svg"><img src="assets/projects/ms-java-crud.svg" width="49%" alt="ms-java-crud: companies CRUD microservice on Spring Boot 3.5 and Java 21 with JPA, PostgreSQL and Actuator"></picture></a>
-  <a href="https://github.com/ingnatoz/google_book_api"><picture><source media="(max-width: 640px)" srcset="assets/projects/google_book_api-mobile.svg"><img src="assets/projects/google_book_api.svg" width="49%" alt="google_book_api: books REST API with Django REST Framework, expiring token auth and pytest"></picture></a>
-  <a href="https://github.com/ingnatoz/flask_dynamo_s3"><picture><source media="(max-width: 640px)" srcset="assets/projects/flask_dynamo_s3-mobile.svg"><img src="assets/projects/flask_dynamo_s3.svg" width="49%" alt="flask_dynamo_s3: Flask CRUD on DynamoDB with file storage in S3 through Boto3"></picture></a>
-  <a href="https://github.com/ingnatoz/Flask-CRUD"><picture><source media="(max-width: 640px)" srcset="assets/projects/Flask-CRUD-mobile.svg"><img src="assets/projects/Flask-CRUD.svg" width="49%" alt="Flask-CRUD: REST CRUD with Flask, SQLAlchemy and Marshmallow on MySQL"></picture></a>
-</p>
-
 ---
 
 <p align="center"><sub>Full experience on <a href="https://www.linkedin.com/in/miguel-natanael">LinkedIn</a></sub></p>
