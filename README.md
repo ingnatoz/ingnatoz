@@ -8,11 +8,11 @@ I build backend systems and the platforms that run them, with **Java**, **Python
 
 <a href="https://www.linkedin.com/in/miguel-natanael"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn"></a>
 
-## ⚡ Impact
+## 👨‍💻 What I do
 
-<picture><source media="(max-width: 640px)" srcset="assets/impact-mobile.svg"><img src="assets/impact.svg" width="100%" alt="Impact: 10 years shipping production software across 5 companies; Docker images cut 91%, from 1 GB to 90 MB; 10 CI/CD pipelines for 5 teams moved to Linux; 9 marketplaces unified in one system"></picture>
-
-<picture><source media="(max-width: 640px)" srcset="assets/highlights-mobile.svg"><img src="assets/highlights.svg" width="100%" alt="Highlights. Platform: modular Terraform platform for AWS ECS Fargate, 6 reusable modules and one workspace per service. Leadership: hands-on tech lead for 5 engineers; my archetypes became the standard for new services. Architecture: monolith to microservices for a national TV network's core broadcast system on AWS. Integrations: 9 marketplaces behind one backend with REST microservices and a RabbitMQ event bus."></picture>
+- Build backend services and APIs with Java (Spring Boot) and Python.
+- Set up AWS infrastructure with Terraform, Docker and CI/CD pipelines.
+- Lead small teams through code reviews and shared standards.
 
 ## 🧰 Tech stack
 
